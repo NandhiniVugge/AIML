@@ -15,3 +15,5 @@ LAB-07:[DECISION TREE CLASSIFIER](https://github.com/NandhiniVugge/AIML/blob/mai
 LAB-08[IMPLEMENT DECISION TREE CLASSIFIER USING LENDING CLUB DATA](https://github.com/NandhiniVugge/AIML/blob/main/AIML_LAB_08.ipynb)
 
 LAB-09[ Implement Random Forest Ensemble Classifier using Lending Club Data](https://github.com/NandhiniVugge/AIML/blob/main/Lab_09.ipynb)
+
+LAB-10[Implement K-Means Clustering using Iris Data](https://github.com/NandhiniVugge/AIML/blob/main/lab_10_ipynb.ipynb)
