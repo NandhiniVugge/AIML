@@ -13,3 +13,5 @@ LAB-06[IMPLEMENT K-NEAREST NEIGHBOR CLASSIFICATION USING CLASSIFIED MANUFACTURIN
 LAB-07:[DECISION TREE CLASSIFIER](https://github.com/NandhiniVugge/AIML/blob/main/lab_7.ipynb)
 
 LAB-08[IMPLEMENT DECISION TREE CLASSIFIER USING LENDING CLUB DATA](https://github.com/NandhiniVugge/AIML/blob/main/AIML_LAB_08.ipynb)
+
+LAB-09[ Implement Random Forest Ensemble Classifier using Lending Club Data](https://github.com/NandhiniVugge/AIML/blob/main/Lab_09.ipynb)
